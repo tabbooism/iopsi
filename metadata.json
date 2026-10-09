@@ -1,0 +1,6 @@
+{
+  "name": "OSRS-OPS: Threat Modeling & Defensive Simulation Suite",
+  "description": "Defensive cyber educational suite, interactive scam simulation engine, MITRE ATT&CK threat modeling, and resilience training for Old School RuneScape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
